@@ -1,0 +1,33 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+    border-color: blue;
+    border-style: groove;
+    border-width: 10px;
+    border-radius: 20px;
+}
+body{
+    background-attachment: fixed;
+    background-image: url(escanaba.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    background-color: black;
+}
+
+img{
+    width: 300px;
+}
+p{
+    color: chartreuse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 100px;
+    width: 300px;
+    margin: 0 25px 25px 0;
+    box-align: center;
+
+}
+h2{
+    color: white;
+    text-shadow: 2px 2px 2px fuchsia;
+}
